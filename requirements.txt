@@ -9,7 +9,7 @@ click-repl==0.2.0
 colorama==0.4.4
 Django==4.2.7
 django-environ==0.8.1
-kombu==5.3.2
+kombu==5.3.3
 prompt-toolkit==3.0.39
 pytz==2023.3.post1
 six==1.16.0
